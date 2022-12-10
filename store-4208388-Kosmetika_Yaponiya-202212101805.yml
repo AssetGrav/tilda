@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2022-12-10T18:05:37+03:00">
+	<shop>
+		<name>wcosmetic.kz</name>
+		<company>ТОО LetchikKyzy</company>
+		<url>https://wcosmetic.kz</url>
+		<platform>Tilda Publishing</platform>
+		<version>1.0</version>
+		<currencies>
+			<currency id="KZT" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="259188957541">Косметика Япония</category>
+		</categories>
+		<offers>
+		<offer id="938982057261">
+			<name>Isehan Sunkiller Perfect Water Essence SPF50</name>
+			<description>
+<![CDATA[
+Доставка по г. Астана от 30 шт МЕЛКИЙ ОПТ товар в наличии<br />Увлажняющий солнцезащитный гель-крем для ежедневного использования. Обеспечивает надёжную защиту от UVA/UVB лучей. Средство на водной основе на 86% состоит из увлажняющих ингредиентов, в частности, в составе три вида гиалуроновой кислоты и три антиоксиданта. Средство прекрасно увлажняет, не выбеливает кожу и не забивает поры. Идеален в качестве основы под макияж. Тип фильтров: комбинированный ( физические+химические): Uvinul A plus, октиноксат, диоксид титана.#nbsp;#nbsp;<br /><br />Преимущества
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3233-3065-4562-b336-356639316439/WhatsApp_Image_2022-.jpeg</picture>
+			<url>https://wcosmetic.kz/magazin/tproduct/332272530-938982057261-isehan-sunkiller-perfect-water-essence-s</url>
+			<count>1995</count>
+			<price>6000.00</price>
+			<oldprice>6500.00</oldprice>
+			<currencyId>KZT</currencyId>
+			<categoryId>259188957541</categoryId>
+		</offer>
+		<offer id="366055988441">
+			<name>Biore UV Aqua rich - sfp 50</name>
+			<description>
+<![CDATA[
+Biore UV Aqua rich - sfp 50 крем защищает от пигментации, водостойкий, солнцезащитный.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3939-3133-4037-a365-306531376236/Biore-UV-Aqua-rich.jpeg</picture>
+			<url>https://wcosmetic.kz/uhodzakozhejlica/tproduct/332274171-366055988441-biore-uv-aqua-rich-sfp-50</url>
+			<count>9999</count>
+			<price>7500.00</price>
+			<currencyId>KZT</currencyId>
+			<categoryId>259188957541</categoryId>
+		</offer>
+		<offer id="952183633211">
+			<name>Солнцезащитное молочко SPF 50 – Shiseido Anessa Perfect UV Skincare Milk SPF 50</name>
+			<vendor>ANESSA</vendor>
+			<vendorCode>SH424A</vendorCode>
+			<description>
+<![CDATA[
+Покрывает кожу тонкой и равномерной защитной вуалью. Технология Aqua Booster начинает работать при контакте санскрина с потом и водой, усиливая защитное покрытие — оно становится более стойким к смыванию.<br />Подходит для детей, кроме новорожденных, и для взрослых.#nbsp;<br />Имеет самый высокий фактор защиты от УФ-лучей обоих типов: SPF50 + PA ++++.<br />Солнцезащитное молочко обладает легкой и нежной текстурой, легко распределяется по коже. Не оставляет белесости и липкости. Песок не прилипает к коже.<br />Обладает подтвержденной тестами высокой водостойкостью в течение 80 минут.<br />Санскрин идеально подходит для прогулок и отдыха на природе, занятий спортом или игр на улице, давая максимальную защиту, даже когда вы купаетесь или сильно вспотели.<br />Не содержит спирта, отдушек, красителей, минеральных масел и парабенов. Аллергически протестировано.<br />Можно использовать в качестве базы под макияж.<br />Способ применения: Хорошо встряхните флакон перед использованием. Для лица, возьмите небольшое количество средства в конце утреннего ухода за кожей, нанесите на лицо и шею и мягко распределите. Для тела, нанесите средство из флакона прямо на кожу, и распределите по коже круговыми движениями ладони. При недостаточном нанесении, эффект защиты может быть неполным. Для удаления санскрина используйте мыло или пенку.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3732-6264-4633-b833-373661616662/WhatsApp_Image_2022-.jpeg</picture>
+			<url>https://wcosmetic.kz/magazin/tproduct/332272530-952183633211-solntsezaschitnoe-molochko-spf-50-shisei</url>
+			<count>14</count>
+			<price>16500.00</price>
+			<oldprice>20000.00</oldprice>
+			<currencyId>KZT</currencyId>
+			<categoryId>259188957541</categoryId>
+		</offer>
+		<offer id="383451698931">
+			<name>Biore UV Aqua rich - sfp 50</name>
+			<description>
+<![CDATA[
+Biore UV Aqua rich - sfp 50 крем защищает от пигментации, водостойкий, солнцезащитный.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3939-3133-4037-a365-306531376236/Biore-UV-Aqua-rich.jpeg</picture>
+			<url>https://wcosmetic.kz/uhodzakozhejlica/tproduct/332274171-383451698931-biore-uv-aqua-rich-sfp-50</url>
+			<count>9999</count>
+			<price>7500.00</price>
+			<currencyId>KZT</currencyId>
+			<categoryId>259188957541</categoryId>
+		</offer>
+		<offer id="679618107291">
+			<name>Sunkiller Perfect Water Essence SPF50</name>
+			<description>
+<![CDATA[
+Цена указана ЗА 1 ШТУКУ ДОСТАВКА г. Астана<br />Увлажняющий солнцезащитный гель-крем для ежедневного использования. Обеспечивает надёжную защиту от UVA/UVB лучей. Средство на водной основе на 86% состоит из увлажняющих ингредиентов, в частности, в составе три вида гиалуроновой кислоты и три антиоксиданта. Средство прекрасно увлажняет, не выбеливает кожу и не забивает поры. Идеален в качестве основы под макияж. Тип фильтров: комбинированный ( физические+химические): Uvinul A plus, октиноксат, диоксид титана.#nbsp;#nbsp;<br /><br />Преимущества
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3035-3932-4132-b132-646131326234/WhatsApp_Image_2022-.jpeg</picture>
+			<url>https://wcosmetic.kz/uhodzakozhejlica/tproduct/332274171-679618107291-sunkiller-perfect-water-essence-spf50</url>
+			<count>999</count>
+			<price>8500.00</price>
+			<oldprice>7500.00</oldprice>
+			<currencyId>KZT</currencyId>
+			<categoryId>259188957541</categoryId>
+		</offer>
+		<offer id="721850149811">
+			<name>Солнцезащитное молочко SPF 50 – Shiseido Anessa Perfect UV Skincare Milk SPF 50</name>
+			<vendor>ANESSA</vendor>
+			<vendorCode>SH424A</vendorCode>
+			<description>
+<![CDATA[
+Только опт. цены запрашивайте у менеджеров<br />Покрывает кожу тонкой и равномерной защитной вуалью. Технология Aqua Booster начинает работать при контакте санскрина с потом и водой, усиливая защитное покрытие — оно становится более стойким к смыванию.<br />Подходит для детей, кроме новорожденных, и для взрослых.#nbsp;<br />Имеет самый высокий фактор защиты от УФ-лучей обоих типов: SPF50 + PA ++++.<br />Солнцезащитное молочко обладает легкой и нежной текстурой, легко распределяется по коже. Не оставляет белесости и липкости. Песок не прилипает к коже.<br />Обладает подтвержденной тестами высокой водостойкостью в течение 80 минут.<br />Санскрин идеально подходит для прогулок и отдыха на природе, занятий спортом или игр на улице, давая максимальную защиту, даже когда вы купаетесь или сильно вспотели.<br />Не содержит спирта, отдушек, красителей, минеральных масел и парабенов. Аллергически протестировано.<br />Можно использовать в качестве базы под макияж.<br />Способ применения: Хорошо встряхните флакон перед использованием. Для лица, возьмите небольшое количество средства в конце утреннего ухода за кожей, нанесите на лицо и шею и мягко распределите. Для тела, нанесите средство из флакона прямо на кожу, и распределите по коже круговыми движениями ладони. При недостаточном нанесении, эффект защиты может быть неполным. Для удаления санскрина используйте мыло или пенку.
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6538-3737-4133-a464-316632633138/WhatsApp_Image_2022-.jpeg</picture>
+			<url>https://wcosmetic.kz/magazin/tproduct/332272530-721850149811-solntsezaschitnoe-molochko-spf-50-shisei</url>
+			<count>20</count>
+			<price>14000.00</price>
+			<currencyId>KZT</currencyId>
+			<categoryId>259188957541</categoryId>
+		</offer>
+		<offer id="330521064591">
+			<name>Anessa Perfect UV Солнцезащитный Гель SPF 50+</name>
+			<description>
+<![CDATA[
+<ul><li>Увлажняющий солнцезащитный гель для лица и тела</li><li>Водостойкая (в течение 80 минут) формула усиливает свое действие при воздействии пота и воды</li><li>Создан на основе технологии Core-Corona Emulsification для водной освежающей текстуры</li><li>Содержит 50% ухаживающих компонентов, таких как гиалуроновая кислота, морской коллаген и алоэ вера</li><li>Насыщен комплексом Aqua Booster EX, который создает защитную пленку на поверхности кожи</li><li>Обеспечивает длительную и эффективную защиту от солнца с SPF50+ PA++++</li><li>С освежающим цитрусовым ароматом</li><li>Делает кожу свежей, комфортной и увлажненной</li><li>Подходит для занятий спортом и активности на свежем воздухе</li></ul>
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6134-6135-4231-b735-373738616566/WhatsApp_Image_2022-.jpeg</picture>
+			<url>https://wcosmetic.kz/magazin/tproduct/332272530-330521064591-anessa-perfect-uv-solntsezaschitnii-gel</url>
+			<count>100</count>
+			<price>15500.00</price>
+			<currencyId>KZT</currencyId>
+			<categoryId>259188957541</categoryId>
+		</offer>
+		<offer id="816844162241">
+			<name>Anessa Perfect UV Солнцезащитный Гель SPF 50+</name>
+			<description>
+<![CDATA[
+<ul><li>Только опт цены у менеджеров уточняйте</li><li>Увлажняющий солнцезащитный гель для лица и тела</li><li>Водостойкая (в течение 80 минут) формула усиливает свое действие при воздействии пота и воды</li><li>Создан на основе технологии Core-Corona Emulsification для водной освежающей текстуры</li><li>Содержит 50% ухаживающих компонентов, таких как гиалуроновая кислота, морской коллаген и алоэ вера</li><li>Насыщен комплексом Aqua Booster EX, который создает защитную пленку на поверхности кожи</li><li>Обеспечивает длительную и эффективную защиту от солнца с SPF50+ PA++++</li><li>С освежающим цитрусовым ароматом</li><li>Делает кожу свежей, комфортной и увлажненной</li><li>Подходит для занятий спортом и активности на свежем воздухе</li></ul>
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild6134-6135-4231-b735-373738616566/WhatsApp_Image_2022-.jpeg</picture>
+			<url>https://wcosmetic.kz/magazin/tproduct/332272530-816844162241-anessa-perfect-uv-solntsezaschitnii-gel</url>
+			<count>100</count>
+			<price>14000.00</price>
+			<currencyId>KZT</currencyId>
+			<categoryId>259188957541</categoryId>
+		</offer>
+		<offer id="677693882961">
+			<name>Anessa Perfect UV Spray Aqua Booster SPF 50+ PA ++++</name>
+			<description>
+<![CDATA[
+Японский мощный солнцезащитный спрей для ухода за кожей Anessa Perfect UV Spray Aqua Booster SPF 50+ PA ++++<br />Cамое удобное солнцезащитное средство из линейки Anessa от Shiseido. Спрей подходит для лица, тела и даже волос. С этим средством вы обеспечите себя 100% защитой от вредного воздействия ультрафиолетовых лучей.<br />Фактор защиты спрея максимальный SPF 50+ PA ++++. Он имеет приятный и лёгкий цитрусовый аромат. Смывается после использования даже обычным мылом. Значение SPF 50 - 1000 минут (16 часов 40 минут). PA ++ ++ - ультрафиолетовый эффект чрезвычайно высок.<br />50% средства - это косметические компоненты, такие как: супер гиалуроновая кислота, которая предотвращает разрушение кожи под воздействием ультрафиолета; морской коллаген, экстракт алоэ, экстракт плодов розы. Компоненты для дневной защиты кожи: экстракт сакуры, экстракт плодов Caninabara.<br /><br />
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3736-6333-4733-a365-353962383034/WhatsApp_Image_2022-.jpeg</picture>
+			<url>https://wcosmetic.kz/magazin/tproduct/332272530-677693882961-anessa-perfect-uv-spray-aqua-booster-spf</url>
+			<count>199</count>
+			<price>15000.00</price>
+			<currencyId>KZT</currencyId>
+			<categoryId>259188957541</categoryId>
+		</offer>
+		<offer id="453501475111">
+			<name>Anessa Perfect UV Spray Aqua Booster SPF 50+ PA ++++</name>
+			<description>
+<![CDATA[
+Только оптом. Цены уточняйте у менеджеров<br />Японский мощный солнцезащитный спрей для ухода за кожей Anessa Perfect UV Spray Aqua Booster SPF 50+ PA ++++<br />Cамое удобное солнцезащитное средство из линейки Anessa от Shiseido. Спрей подходит для лица, тела и даже волос. С этим средством вы обеспечите себя 100% защитой от вредного воздействия ультрафиолетовых лучей.<br />Фактор защиты спрея максимальный SPF 50+ PA ++++. Он имеет приятный и лёгкий цитрусовый аромат. Смывается после использования даже обычным мылом. Значение SPF 50 - 1000 минут (16 часов 40 минут). PA ++ ++ - ультрафиолетовый эффект чрезвычайно высок.<br />50% средства - это косметические компоненты, такие как: супер гиалуроновая кислота, которая предотвращает разрушение кожи под воздействием ультрафиолета; морской коллаген, экстракт алоэ, экстракт плодов розы. Компоненты для дневной защиты кожи: экстракт сакуры, экстракт плодов Caninabara.<br /><br />
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3736-6333-4733-a365-353962383034/WhatsApp_Image_2022-.jpeg</picture>
+			<url>https://wcosmetic.kz/magazin/tproduct/332272530-453501475111-anessa-perfect-uv-spray-aqua-booster-spf</url>
+			<count>200</count>
+			<price>14000.00</price>
+			<currencyId>KZT</currencyId>
+			<categoryId>259188957541</categoryId>
+		</offer>
+		<offer id="754776543581">
+			<name>SKIN AQUA</name>
+			<description>
+<![CDATA[
+Rohto Skin Aqua Tone Up UV Essence — санскрин для лица и тела с приятной текстурой и максимальной защитой от УФ-лучей, увлажняющим комплексом и розово-синими пигментами корректирующими тон кожи. Идеален для ежедневного применения. Устойчив к воде и поту.<br />Имеет максимальную степень защиты от УФ-лучей обоих типов (UVB и UVA) — SPF50+ PA++++.<br />Содержит УФ-фильтры: Octinoxate, Tinosorb S, Titanium Dioxide, Uvinul A Plus.<br />Смесь полупрозрачного синего и розового пигментов придают ему лавандовый цвет, маскирующий желтоватый оттенок кожи и создающий естественную прозрачность, фарфоровость кожи. Микрочастицы Strobe Pearl (оксид титана, оксид олова, синтетический фторфлогопит) отражая свет, осветляют тон, делают кожу более яркой и сияющей, повышают прозрачность кожи.<br /><br />
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3032-6638-4536-a331-636361373561/WhatsApp_Image_2022-.jpeg</picture>
+			<url>https://wcosmetic.kz/uhodzakozhejlica/tproduct/332274171-754776543581-skin-aqua</url>
+			<count>1000</count>
+			<price>7000.00</price>
+			<currencyId>KZT</currencyId>
+			<categoryId>259188957541</categoryId>
+		</offer>
+		<offer id="683386046231">
+			<name>SKIN AQUA</name>
+			<description>
+<![CDATA[
+ТОЛЬКО оптом Цены уточняйте у менеджеров<br />Rohto Skin Aqua Tone Up UV Essence — санскрин для лица и тела с приятной текстурой и максимальной защитой от УФ-лучей, увлажняющим комплексом и розово-синими пигментами корректирующими тон кожи. Идеален для ежедневного применения. Устойчив к воде и поту.<br />Имеет максимальную степень защиты от УФ-лучей обоих типов (UVB и UVA) — SPF50+ PA++++.<br />Содержит УФ-фильтры: Octinoxate, Tinosorb S, Titanium Dioxide, Uvinul A Plus.<br />Смесь полупрозрачного синего и розового пигментов придают ему лавандовый цвет, маскирующий желтоватый оттенок кожи и создающий естественную прозрачность, фарфоровость кожи. Микрочастицы Strobe Pearl (оксид титана, оксид олова, синтетический фторфлогопит) отражая свет, осветляют тон, делают кожу более яркой и сияющей, повышают прозрачность кожи.<br /><br />
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/tild3032-6638-4536-a331-636361373561/WhatsApp_Image_2022-.jpeg</picture>
+			<url>https://wcosmetic.kz/uhodzakozhejlica/tproduct/332274171-683386046231-skin-aqua</url>
+			<count>1000</count>
+			<price>6000.00</price>
+			<currencyId>KZT</currencyId>
+			<categoryId>259188957541</categoryId>
+		</offer>
+		</offers>
+	</shop>
+</yml_catalog>
